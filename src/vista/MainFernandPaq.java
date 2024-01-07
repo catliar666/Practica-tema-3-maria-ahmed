@@ -43,7 +43,7 @@ public class MainFernandPaq {
             //Creamos un menú con opcion de crear una cuenta o iniciar sesión
             System.out.print("""
                                         
-                    Bienvenido a FernanPaaq ¿qué desea hacer?
+                    Bienvenido a FernanPaaq ¿qué d e s e a hacer?
                     1) Iniciar Sesión.
                     2) Crear una cuenta.
                     3) Seguimiento de un paquete con número de referencia.
