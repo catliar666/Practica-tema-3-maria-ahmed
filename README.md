@@ -161,26 +161,13 @@ Crear cuenta como conductor:
 
 #### 3. Seguimiento de un paquete con número de referencia
 
+En este apartado mediante el numero de referencia de nuestro envío podemos hacer un seguimiento y consultar nuestros datos:
+
+![img](https://media.discordapp.net/attachments/1161335251021332530/1193594398089420901/image.png?ex=65ad4868&is=659ad368&hm=297d3a0a3d887f27a47b1c60a87255ff9cad83ce094d73b89b5947a514c2511a&=&format=webp&quality=lossless&width=836&height=390)
+
+
 #### 4. Salir
 
 Esta opción nos deja salir y cerrar el programa.
 
 ---------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
