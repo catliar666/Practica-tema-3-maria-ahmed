@@ -13,7 +13,7 @@
 
 
 ## Presentación
-¡Envíos rápidos y seguros en un solo lugar! Elige nuestro programa para una empresa de paquetería y haz que tus envíos lleguen a su destino sin problemas. Con tecnología de punta y un equipo de profesionales, confía en nosotros para hacer crecer tu negocio y satisfacer a tus clientes. ¡No busques más, somos la solución perfecta para tus necesidades de envío!
+¡Envíos rápidos y seguros en un solo lugar! Elige nuestro programa para una empresa de paquetería y haz que tus envíos lleguen a su destino sin problemas. Con tecnología punta y un equipo de profesionales, confía en nosotros para hacer crecer tu negocio y satisfacer a tus clientes. ¡No busques más, somos la solución perfecta para tus necesidades de envío!
 
 ![](https://cdn.discordapp.com/attachments/1161335251021332530/1193527397618810880/logo_usado_2.jpeg?ex=65ad0a02&is=659a9502&hm=82129e80a59bd705cfcb509d7e35f11723af35bb9d8a48367ba33439b87c6f5b&)
 
